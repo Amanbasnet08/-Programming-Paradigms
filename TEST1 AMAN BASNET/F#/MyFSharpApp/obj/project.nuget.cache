@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/lBA7XVYp0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amanb\\OneDrive\\Documents\\SEMESTER 3\\Promgrammingparadimgs\\TEST1 AMAN BASNET\\F#\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amanb\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
